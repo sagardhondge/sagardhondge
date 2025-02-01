@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sagardhondge
-- 👀 I’m interested in develloping
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me sagardhondge56@gmail.com
 - 😄 Pronouns: Sagar
